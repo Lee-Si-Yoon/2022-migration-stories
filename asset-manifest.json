@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/2022-migration-stories/static/css/main.073c9b0a.css",
-    "main.js": "/2022-migration-stories/static/js/main.96329cd2.js",
-    "static/media/logo.svg": "/2022-migration-stories/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/2022-migration-stories/index.html",
-    "main.073c9b0a.css.map": "/2022-migration-stories/static/css/main.073c9b0a.css.map",
-    "main.96329cd2.js.map": "/2022-migration-stories/static/js/main.96329cd2.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.89f61b66.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.89f61b66.js.map": "/static/js/main.89f61b66.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.96329cd2.js"
+    "static/js/main.89f61b66.js"
   ]
 }
